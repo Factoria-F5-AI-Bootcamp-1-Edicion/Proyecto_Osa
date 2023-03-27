@@ -8,6 +8,7 @@
 
 # Se ignora dataset
 *.csv
+*.xlsx
 
 **/ipynb_checkpoints/
 .ipynb_checkpoints/
