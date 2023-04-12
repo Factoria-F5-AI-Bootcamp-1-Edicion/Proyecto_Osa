@@ -1,6 +1,6 @@
 # Análisis de Precios de Compra y Venta de Productos del supermercado La Osa 
 
-![imagen](https://github.com/Factoria-F5-AI-Bootcamp-1-Edicion/Proyecto_Osa/issues/1#issue-1665180539)
+![imagen](https://user-images.githubusercontent.com/97572313/231572957-167836db-ca40-4a62-827d-950c2228535a.png)
 
 Desarrollado por: [Vaneza Florez](https://github.com/vanezafg) y [Jonnathan](https://github.com/JonDScode) 
 
